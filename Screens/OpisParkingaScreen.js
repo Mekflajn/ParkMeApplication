@@ -56,6 +56,26 @@ const OpisParkingaScreen = () =>{
                         </View>
                     </View>
                 </Card>
+
+                <Card style={styles.card}>
+                    <View style={styles.glavniContainer}>
+                        <Text style={styles.text}>PARKING LOKACIJA 6:</Text>
+                        <Text style={styles.naziv}>Parking centar</Text>
+                        <View style={styles.maliTekstContainer}>
+                            <Text style={styles.maliTekst}>Kliknite za više informacija!</Text>
+                        </View>
+                    </View>
+                </Card>
+
+                <Card style={styles.card}>
+                    <View style={styles.glavniContainer}>
+                        <Text style={styles.text}>PARKING LOKACIJA 7:</Text>
+                        <Text style={styles.naziv}>Parking centar</Text>
+                        <View style={styles.maliTekstContainer}>
+                            <Text style={styles.maliTekst}>Kliknite za više informacija!</Text>
+                        </View>
+                    </View>
+                </Card>
             </View>
         </ScrollView>
     );
