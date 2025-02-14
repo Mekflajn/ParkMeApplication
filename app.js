@@ -170,7 +170,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.pozadina,
     height: 60,
     justifyContent: 'center',
-    width: '65%',
+    width: '60%',
     borderRadius: 20,
     marginHorizontal: '20%',
     alignSelf: 'center',
